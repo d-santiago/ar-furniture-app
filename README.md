@@ -14,6 +14,10 @@ by students who want to learn the fundamentals of interior
 design; and commercially by interior designers who create interior
 design concepts for their clients.
 
+## Technologies
+- Unity
+- C#
+
 ## Design and Implementation
 
 ### Design
